@@ -26,3 +26,4 @@ pip3 install -r requirements.txt
 
 ## License
 The source code is distributed under the MIT License.
+SQLAlchemy is also released under the MIT License, which can be found at https://docs.sqlalchemy.org/en/13/copyright.html
