@@ -13,28 +13,31 @@ This application incorporates the SQLAlchemy toolkit and datetime module, and wa
 
 
 ## How to use
-Download the repository, navigate to the directory containing "todolist.py", and run:
+Download the repository, navigate to the directory containing "todolist.py", and run
+
+on Mac or Linux:
 
 ```
   python3 todolist.py
 ```
-on Mac or Linux, or
+on Windows:
 
 ```
   python todolist.py
 ```
-on Windows.
 
-You can install all modules needed by running:
+You can install all necessary modules by running
+
+on Mac or Linux:
 
 ```
 pip3 install -r requirements.txt
 ```
-on Mac or Linux, or
+on Windows:
 ```
 pip install -r requirements.txt
 ```
-on Windows.
+
 
 ## License
 The source code is distributed under the MIT License.
