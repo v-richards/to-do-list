@@ -18,12 +18,23 @@ Download the repository, navigate to the directory containing "todolist.py", and
 ```
   python3 todolist.py
 ```
+on Mac or Linux, or
+
+```
+  python todolist.py
+```
+on Windows.
+
 You can install all modules needed by running:
 
 ```
 pip3 install -r requirements.txt
 ```
+on Mac or Linux, or
+```
+pip install -r requirements.txt
+```
+on Windows.
 
 ## License
 The source code is distributed under the MIT License.
-SQLAlchemy is also released under the MIT License, which can be found at https://docs.sqlalchemy.org/en/13/copyright.html
